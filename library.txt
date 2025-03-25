@@ -1,0 +1,1 @@
+[{"title": "A drop in the ocean", "author": "Justin", "year": "May 1980", "genre": "Fiction", "read": true}, {"title": "The last wish", "author": "Maya", "year": "April 1940", "genre": "Children's literature", "read": true}]
